@@ -1,2 +1,2 @@
-# Radix4-Serial-Recoder
+# Radix4-Recoder
 Here I Designed a radix 4 serial recoder. we use recoders in multipliers.
